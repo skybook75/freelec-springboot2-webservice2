@@ -48,8 +48,8 @@ deploy:
     region: ap-northeast-2
     wait-until-deployed: true
 
-# CI 실행 완료시 메일로 알람
+# CI 실행 완료시 메일로 알람22
 notifications:
   email:
     recipients:
-      - jojoldu@gmail.com
+      - skybook75@gmail.com
